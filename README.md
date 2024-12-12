@@ -1,4 +1,6 @@
-# Airline-Analysis
+# Airline-Analysus
+  ![Capture](https://github.com/user-attachments/assets/98c2e051-bdd7-4963-a7b4-d676d9db82fb)
+
 For this project, the goal is to identify opportunities to increase occupancy rate on low performing flights which can ultimately lead to increased profitablity.
 Kaggle dataset: https://www.kaggle.com/datasets/saadharoon27/airlines-dataset
 # Business Problem:
